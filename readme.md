@@ -1,4 +1,4 @@
-
+its aws server node/driod/node.venketraman.com
 First install node and nginx
 
 
